@@ -1,0 +1,19 @@
+Mega Massa V5 - cards corrigidos
+
+- Produtos com imagens recortadas corretamente, sem cortar a embalagem.
+- Cards da seção ARGAMASSAS MEGA MASSA reduzidos na altura.
+- Logo PNG e favicon corrigidos.
+- Páginas individuais dos produtos mantidas.
+
+Para testar: extraia o ZIP completo e abra o index.html fora do arquivo compactado.
+
+- Ajuste V6: adicionada a logo Mega Massa no silo da imagem da seção Silo de Massa.
+
+
+V10: Rodapé atualizado com o crédito clicável: "Site desenvolvido pela Agência Neo Arte", apontando para https://neoartepub.com.br/.
+
+
+V13: Rodapé ajustado em linha única: © 2026 Mega Massa | Todos os direitos reservados | Site desenvolvido pela Agência Neo Arte. Apenas "Agência Neo Arte" é clicável.
+
+
+V14: Corrigido o rodapé para manter todo o crédito em uma única linha; o link Agência Neo Arte agora fica inline, não em bloco.
